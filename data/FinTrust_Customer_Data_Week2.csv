@@ -1,0 +1,34 @@
+Customer_ID,Customer_Name,Age,Gender,City,Customer_Segment
+FT-C00001,Ibrahim Adeyemi,56,Male,Lagos,Premium
+FT-C00002,Yusuf Mohammed,46,Male,Kano,Everyday
+FT-C00003,Emeka Adeyemi,32,Female,Port Harcourt,Everyday
+FT-C00004,David Williams,60,Female,Benin City,Premium
+FT-C00005,Blessing Adeyemi,25,Male,Kaduna,Premium
+FT-C00006,Samuel Eze,38,Male,Lagos,Everyday
+FT-C00007,Tunde Williams,56,Male,Kaduna,Everyday
+FT-C00008,Yusuf Eze,36,Female,Lagos,SME
+FT-C00009,Samuel Mohammed,40,Male,Lagos,Everyday
+FT-C00010,Blessing Usman,28,Male,Lagos,Everyday
+FT-C00011,Chiamaka Bello,28,Male,Abuja,Premium
+FT-C00012,Emeka Nwosu,41,Male,Ibadan,Everyday
+FT-C00013,Ada Mohammed,53,Female,Lagos,Everyday
+FT-C00014,Ada Nwosu,57,Female,Lagos,Everyday
+FT-C00015,Chiamaka Adeyemi,41,Male,Kaduna,Student
+FT-C00016,Yusuf Adeyemi,20,Male,Benin City,Premium
+FT-C00017,Daniel Eze,39,Male,Benin City,Premium
+FT-C00018,Mariam Garba,19,Male,Enugu,SME
+FT-C00019,Tunde Okafor,41,Male,Kano,Student
+FT-C00020,Daniel Adeyemi,61,Male,Lagos,Everyday
+FT-C00021,Mariam Ibrahim,47,Female,Abuja,Everyday
+FT-C00022,Fatima Bello,55,Male,Kano,Premium
+FT-C00023,Tunde Ojo,19,Female,Lagos,Student
+FT-C00024,David Eze,38,Female,Ibadan,Premium
+FT-C00025,David Okafor,50,Prefer not to say,Lagos,Premium
+FT-C00026,David Eze,29,Female,Lagos,Everyday
+FT-C00027,Emeka Eze,39,Female,Port Harcourt,Everyday
+FT-C00028,Garba,61,Female,Ibadan,Everyday
+FT-C00029,Grace Adebayo,42,Male,Port Harcourt,Everyday
+FT-C00030,Daniel Bello,44,Female,Ibadan,Everyday
+FT-C00031,Samuel Usman,59,Female,Lagos,Premium
+FT-C00032,Tunde Eze,45,Female,Lagos,Premium
+FT-C00033,David Nwosu,33,Female,Enugu,Everyday

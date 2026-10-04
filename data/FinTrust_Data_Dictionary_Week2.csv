@@ -1,0 +1,21 @@
+Field_Name,Dataset,Data_Type,Example,Definition,Week2_Source_Status
+Customer_ID,Customer,Text,FT-C00001,Unique synthetic customer identifier,Present in customer export
+Customer_Name,Customer,Text,Amina Okafor,Synthetic customer display name,Present in supplied customer PDF
+Age,Customer,Integer,34,Customer age,Present in customer export
+Gender,Customer,Category,Female,Customer-reported gender category,Present in customer export
+City,Customer,Category,Lagos,Customer location,Present in customer export
+Customer_Segment,Customer,Category,Everyday,Assigned customer segment,Present in customer export
+Account_Type,Customer,Category,Savings,Primary account type,Listed in dictionary; not present in supplied customer export
+Tenure_Months,Customer,Integer,24,Months since account relationship began,Listed in dictionary; not present in supplied customer export
+Digital_Engagement_Score,Customer,Decimal,72.5,Synthetic 10–100 engagement score,Listed in dictionary; not present in supplied customer export
+Monthly_Income_Band,Customer,Category,250k-499k,Synthetic income band,Listed in dictionary; not present in supplied customer export
+Preferred_Channel,Customer,Category,Mobile App,Preferred banking channel,Listed in dictionary; not present in supplied customer export
+Account_Status,Customer,Category,Active,Current synthetic account status,Listed in dictionary; not present in supplied customer export
+Transaction_ID,Transaction,Text,FT-T000001,Unique synthetic transaction identifier,Present in transaction export
+Customer_ID,Transaction,Text,FT-C00033,Join candidate,Present in transaction export
+Transaction_DateTime,Transaction,DateTime,1/1/2026 0:00,Transaction date and time,Present in transaction export
+Transaction_Type,Transaction,Category,Card Purchase,Transaction type,Present in transaction export
+Amount_NGN,Transaction,Numeric,5923.8,Transaction amount in NGN,Present in transaction export
+Channel,Transaction,Category,Mobile App,Transaction channel,Present in transaction export
+Transaction_Status,Transaction,Category,Success,Transaction outcome status,Not present in supplied transaction export
+Risk_Review_Flag,Transaction,Category,Review,Synthetic educational target,Not present in supplied transaction export
